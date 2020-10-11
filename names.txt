@@ -1,1 +1,2 @@
+role, NetID, FamilyName, GivenName
 boss, sli739, Li, Sixu
